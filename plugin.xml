@@ -8,7 +8,7 @@
   </js-module>
   <asset src="www/litegap-example.html" target="litegap-example.html"/>
   <engines>
-    <engine name="cordova" version="3.0.0"/>
+    <engine name="cordova" version="3.1.0"/>
   </engines>
   <platform name="ios">
     <config-file target="config.xml" parent="/widget">
